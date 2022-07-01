@@ -1,0 +1,238 @@
+
+
+adaptar para mobile
+
+links imagens
+
+whatsapp
+assets\logotipo\whatsapp.png
+
+
+banner
+
+https://clickinternetfibra.com.br/wp-content/uploads/2020/05/post-04.png
+
+
+
+planejamento projeto : site de planos
+
+foco:  venda de planos
+
+linguagens: html e css
+
+página unica divididas em 2 partes,
+parte superior com os planos e as informações
+
+parte inferior com detalhes dos planos e informações para contato
+como telefone, whatsapp e email
+rede sociais
+
+
+como funcionará o site
+
+o site será um catalogo de pacotes e serviços para contrato
+mostrando a quantia de velocidade e valor em destaque
+abaixo as informações resumidas tais como downloads, uploads, se tem wifi ou não, se à instalação grauita ou não....
+
+
+link do site
+
+
+
+
+
+
+link das imagens
+
+
+
+
+
+links redirecionamento whats
+
+para saber mais
+
+https://api.whatsapp.com/send?phone=551391190071&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20melhor%20sobre%20os%20planos
+
+
+plano de 100mb
+
+https://api.whatsapp.com/send?phone=551391190071&text=Ol%C3%A1%2C%20gostaria%20contatar%20o%20plano%20residencial%20de%20200mb
+
+
+plano de 200mb
+
+https://api.whatsapp.com/send?phone=551391190071&text=Ol%C3%A1%2C%20gostaria%20contatar%20o%20plano%20residencial%20de%20200mb
+
+
+planos
+200mega - h2
+200 mega de download | 100 mega de upload
+R$89,90 h2
+
+botão de assinar com efeito hover
+
+conteudo plano
+
+ Instalação Gratuita e Atendimento 24 horas
+
+ Aplicativos: NIUEduca básico, NIUPlay Life Line e Noggin
+
+ Wi-Fi 5g
+
+ Franquia Ilimitada
+
+* Sujeito a análise de crédito
+
+
+plano de 400mb
+
+https://api.whatsapp.com/send?phone=551391190071&text=Ol%C3%A1%2C%20gostaria%20contatar%20o%20plano%20residencial%20de%20400mb
+
+400mega
+400 mega de download | 200 mega de upload
+
+R$99,90*
+
+ Instalação Gratuita e Atendimento 24 horas
+
+ Aplicativos: NIUPlay Life Line, NIUEduca, Paramont+ e Noggin
+
+ Wi-Fi 5G
+
+ Franquia Ilimitada
+
+* pelos 12 primeiros meses, após o décimo segundo mês o valor passará ser de R$ 119,90 (Sujeito a análise de crédito)
+
+
+
+600mb
+
+600mega
+600 mega de download | 300 mega de upload
+
+R$109,90*
+
+ Instalação Gratuita e Atendimento 24 horas
+
+ Aplicativos: NIUPlay Life Line, NIUEduca, Noggin, Paramont+, Hero Básico, Paulistão Play
+
+ Wi-Fi 5G
+
+ Franquia Ilimitada
+
+* pelos 12 primeiros meses, após o décimo segundo mês o valor passará ser de R$ 129,90 (Sujeito a análise de crédito)
+
+https://api.whatsapp.com/send?phone=551391190071&text=Ol%C3%A1%2C%20gostaria%20contatar%20o%20plano%20residencial%20de%20600mb
+
+
+
+
+aplicativos
+
+https://siteniu.niufibra.com.br/wp-content/themes/niufibrabynuit/img/core-img/paramount-card.png
+
+Séries e Filmes
+Assista ao melhor do entretenimento em um lugar só. Com o Paramount+ você terá acesso a episódios e séries completas, além de filmes aclamados, reality shows de sucesso e animações infantis.
+
+
+
+https://siteniu.niufibra.com.br/wp-content/themes/niufibrabynuit/img/core-img/noggin-card.png
+
+Infantil
+NOGGIN é o app oficial do Nick Jr. pensado e criado para entreter e educar crianças de 2 a 6 anos. Conteúdo em português, 100% seguro e sem publicidade. Comece hoje mesmo a aproveitar o Noggin!
+
+
+
+https://siteniu.niufibra.com.br/wp-content/themes/niufibrabynuit/img/core-img/hero-card.png
+
+Segurança
+O Aplicativo HERO deixa seu dispositivo livre de vírus, evita invasões virtuais e roubo de informações importantes. Com ele você fica tranquilo para realizar compras online e movimentações financeiras com total segurança.
+
+
+
+https://siteniu.niufibra.com.br/wp-content/themes/niufibrabynuit/img/core-img/educa-card.png
+
+Educação
+Niu Educa é uma plataforma com mais de 100 cursos gratuitos! Totalmente exclusivo para clientes Niu Fibra. O curso do seu sonho na palma da sua mão.
+
+
+
+
+empresarial
+
+
+200mega
+200 mega de download | 200 mega de upload
+
+R$99,90*
+
+ Instalação Gratuita e Atendimento 24 horas
+
+ Tecnologia FTTH/FTTA
+
+ Wi-Fi 5g
+
+ Franquia Ilimitada
+
+ * pelos 12 primeiros meses, após o décimo segundo mês o valor passará ser de R$ 119,90
+
+
+
+400mega
+400 mega de download | 400 mega de upload
+
+R$109,90*
+
+ Instalação Gratuita e Atendimento 24 horas
+
+ Tecnologia FTTH/FTTA
+
+ Wi-Fi 5G
+
+ Franquia Ilimitada
+
+ * pelos 12 primeiros meses, após o décimo segundo mês o valor passará ser de R$ 129,90
+
+
+
+
+
+600mega
+600 mega de download | 400 mega de upload
+
+R$119,90*
+
+ Instalação Gratuita e Atendimento 24 horas
+
+ Tecnologia FTTH/FTTA
+
+ Wi-Fi 5G
+
+ Franquia Ilimitada
+
+ * pelos 12 primeiros meses, após o décimo segundo mês o valor passará ser de R$ 139,90
+
+----------------------------------------------------------
+
+
+
+contato
+
+
+Telefone:
+(13) 4009-9070
+
+Central de Atendimento:
+Seg à Dom das 7h às 22h
+Feriados das 7h às 22h
+
+Email: qualidade@niufibra.com.br
+
+endereço
+Matriz Guarujá:
+R. Marcos Antônio Oggiano, 20 - Morrinhos, Guarujá
+
+endereço
+Matriz Santos:
+Praça Prof. José Oliveira Lopes, 332 - Castelo - Santos
